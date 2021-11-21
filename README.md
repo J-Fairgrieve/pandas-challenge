@@ -1,4 +1,4 @@
-# VBA Challenge
+# Pandas Challenge
 ### A homework assignment from the University of Birmingham Data Analytics Bootcamp (November 2021)
 
 The aim of this project was to create a [series of summary tables](https://github.com/J-Fairgrieve/pandas-challenge/blob/main/HeroesOfPymoli/HeroesOfPymoli.ipynb) using pandas from the 'Heroes of Pymoli' dataset. Analysis includes:
